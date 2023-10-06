@@ -1,13 +1,12 @@
 # Kubernetes KING CKA
 
-![plot](images/Kubernetes.svg)
+![plot](images/Kubernetes.svg) 
 
----
+>> Why not make my work and learning process better ?
+* This is my own roadmap about the jurney on learning kubernetes.
+* This will contain all my sources and notes for the exam preparation.
+
 ## Domains & Competencies
-
-> This is my own roadmap about the jurney on learning kubernetes.
->> This will contain all my sources and notes for the exam preparation.
-
 #### Storage10%
     - [ ] Understand storage classes, persistent volumes
     - [ ] Understand volume mode, access modes and reclaim policies for volumes
